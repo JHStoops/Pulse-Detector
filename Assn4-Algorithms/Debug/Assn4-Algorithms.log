@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assn4-Algorithms (DocileDino-Lap's conflicted copy 2017-03-10).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  driver.cpp
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn4-algorithms\assn4-algorithms\driver.cpp(134): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Assn4-Algorithms.vcxproj -> D:\Programs\DropBoxFiles\Dropbox\Programming\C++\CS3370 C++ Software Development\Assn4-Algorithms\Debug\Assn4-Algorithms.exe
+  Assn4-Algorithms.vcxproj -> D:\Programs\DropBoxFiles\Dropbox\Programming\C++\CS3370 C++ Software Development\Assn4-Algorithms\Debug\Assn4-Algorithms.pdb (Partial PDB)
